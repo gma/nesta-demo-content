@@ -12,8 +12,8 @@ You can try viewing these pages in your local Nesta site like this:
 
 The `nesta demo:content` command will:
 
-    1. Clone this repository into `path/to/your-nesta-site/content-demo`.
-    2. Update your `config/config.yml`, pointing Nesta to `content-demo`.
-    3. Tell git to ignore the new folder (if you're using git).
+ 1. Clone this repository into `path/to/your-nesta-site/content-demo`.
+ 2. Update your `config/config.yml`, pointing Nesta to `content-demo`.
+ 3. Tell git to ignore the new folder (if you're using git).
 
 Your existing content repository will remain untouched.
