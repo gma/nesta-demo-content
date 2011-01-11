@@ -3,8 +3,17 @@ Summary: Markdown provides a simple way to write your copy in extremely legible 
 
 # Using Markdown
 
-Markdown provides a simple way to write your copy in extremely legible plain text. The text can then be converted (by Nesta) to standards compliant HTML. Inline HTML is supported.
+Markdown provides a simple way to write your copy in extremely legible
+plain text. The text can then be converted (by Nesta) to standards
+compliant HTML. Inline HTML is supported.
 
-To create a page in Markdown, make a new file with a `.mdown` extension inside the `content/pages` folder. See `content-demo/pages/examples/using-markdown.mdown` (this page) for an example.
+To create a page in Markdown, make a new file with a `.mdown` extension
+inside the `content/pages` folder. See
+`content-demo/pages/examples/using-markdown.mdown` (this page) for an
+example.
 
-See my [Markdown cheat sheet](http://effectif.com/nesta/markdown-cheat-sheet) or the [Markdown project page](http://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown") for instructions on Markdown itself.
+See my [Markdown cheat sheet][cheat] or the [Markdown project
+page][markdown] for instructions on Markdown itself.
+
+[cheat]: http://effectif.com/nesta/markdown-cheat-sheet
+[markdown]: http://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown"
