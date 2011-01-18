@@ -1,4 +1,4 @@
-Categories: marking-up-pages
+Categories: marking-up-pages:-1
 Summary: Attachments are easily included in your pages; you simply need to add the relevant HTML tag to link to include an image, video, or other document.
 
 # Adding attachments

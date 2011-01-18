@@ -1,4 +1,4 @@
-Categories: marking-up-pages
+Categories: marking-up-pages:5
 Summary: Markdown provides a simple way to write your copy in extremely legible plain text. The text can then be converted (by Nesta) to standards compliant HTML. Inline HTML is supported.
 
 # Using Markdown

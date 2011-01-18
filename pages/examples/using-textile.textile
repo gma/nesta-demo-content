@@ -1,4 +1,4 @@
-Categories: marking-up-pages
+Categories: marking-up-pages:1
 Summary: While similar to Markdown, Textile's syntax is slightly closer to HTML, and allows you a bit more control over the HTML output. Inline HTML is supported.
 
 h1. Using Textile
