@@ -1,6 +1,6 @@
 Date: 25 Dec 2010
 Categories: marking-up-pages, examples/using-markdown
-Summary: This is an article about how to make an "article" (as distinct from a "page"). This article has been summarised with this short paragraph; if you click the "Show me more" link you'll be able to read the entire article. But wait! Before you move on, you should be able to see (if your current theme supports it) that this article was published on 25 December, and was added to a couple of categories.\n\nHave a look at the top of `content-demo/pages/anatomy-of-an-article.mdown` to see how it's done&hellip;
+Summary: This is an article about how to make an "article" (as distinct from a "page"). This article has been summarised with this short paragraph; if you click the "Show me more" link you'll be able to read the entire article. But wait! Before you move on, you should be able to see (if your current theme supports it) that this article was published on 25 December, and was added to a couple of categories.\n\nHave a look at the top of `anatomy-of-an-article.mdown` to see how it's done&hellip;
 Read more: Show me more
 
 # Anatomy of an article
@@ -10,11 +10,12 @@ Okay, so how do you write an article?
 ## Set the date
 
 The only thing that makes an article different to a normal page in Nesta
-is that it has a date. If you open
-`content-demo/pages/anatomy-of-an-article.mdown`, you'll see the date in
-the chunk of metadata at the top of the file. It doesn't matter what
-order you enter your metadata; just make sure that you separate the meta
-data from the content with a blank line.
+is that it has a date. If you check the [Markdown source][source] for
+this page you'll see the date in the chunk of metadata at the top of the
+file. It doesn't matter what order you enter your metadata; just make
+sure that you separate the meta data from the content with a blank line.
+
+[source]: https://github.com/gma/nesta-demo-content/raw/master/pages/anatomy-of-an-article.mdown
 
 ## Set Summary to a brief overview (optional)
 
