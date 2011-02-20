@@ -21,3 +21,6 @@ The `nesta demo:content` command will:
  3. Tell git to ignore the new folder (if you're using git).
 
 Your existing content repository will remain untouched.
+
+You can see what the demo site looks like at
+[nesta-demo.heroku.com](http://nesta-demo.heroku.com).
