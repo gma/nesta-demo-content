@@ -2,12 +2,10 @@ Date: 31 Dec 2010
 
 # Start here
 
-Well hello there. You're reading a short article in Nesta, a rather
-simple CMS. I've created these pages so that you can learn the basics of
-Nesta by playing around with some examples. You'll find the content of
-all the pages on this site in the [nesta-demo-content][repo] repository
-on GitHub. Of course, if you'd rather learn by [reading the
-docs](http://effectif.com/nesta), that's cool too.
+You're reading a short article in Nesta, a rather simple CMS. I've
+created these pages so that you can learn the basics of Nesta by playing
+around with some examples. You'll find the content of all the pages on
+this site in the [nesta-demo-content][repo] repository on GitHub. 
 
 [repo]: http://github.com/gma/nesta-demo-content
 [docs]: http://effectif.com/nesta
@@ -24,6 +22,3 @@ To get started with the demo:
    switch between this demo and your own site by updating `config.yml`
    and reloading the page in your browser. There's no need to restart
    Nesta between edits.
-
-Enjoy!  
--- Graham
