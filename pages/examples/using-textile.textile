@@ -7,6 +7,9 @@ Textile provides a simple way of converting plain text to HTML. While
 similar to Markdown, the syntax is slightly closer to HTML, and allows
 you a bit more control over the HTML output. Inline HTML is supported.
 
-To create a page with Textile, make a new file with a <code>.textile</code> extension inside the <code>content/pages</code> folder. See the <a href="https://github.com/gma/nesta-demo-content/blob/master/pages/examples/using-haml.haml">source</a> of this page for an example.
+To create a page with Textile, make a new file with a
+<code>.textile</code> extension inside the <code>content/pages</code>
+folder. See the <a
+href="https://github.com/gma/nesta-demo-content/blob/master/pages/examples/using-textile.textile">source</a> of this page for an example.
 
 The "Textile project page":http://www.textism.com/tools/textile/ gives more details on Textile's syntax.
