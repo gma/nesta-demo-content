@@ -22,5 +22,4 @@ The `nesta demo:content` command will:
 
 Your existing content repository will remain untouched.
 
-You can see what the demo site looks like at
-[nesta-demo.herokuapp.com](http://nesta-demo.herokuapp.com).
+You can see what the demo site looks like at <https://demo.nestacms.com>.
